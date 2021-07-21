@@ -3,7 +3,6 @@ package com.vms.app.base;
 
 import android.app.Dialog;
 import android.content.Context;
-import android.view.View;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
